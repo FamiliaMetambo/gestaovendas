@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="gestaovenda"/>
+  <table-filter match-name="categoria"/>
+  <table-filter match-name="endereco"/>
+  <table-filter match-name="produtopedido"/>
+  <table-filter match-name="fornecedor"/>
+  <table-filter match-name="fornecedorproduto"/>
+  <table-filter match-name="cliente"/>
+  <table-filter match-name="contacto"/>
+  <table-filter match-name="usuario"/>
+  <table-filter match-name="funcionario"/>
+  <table-filter match-name="produto"/>
+  <table-filter match-name="pedidocliente"/>
+  <table-filter match-name="pedido"/>
+</hibernate-reverse-engineering>
